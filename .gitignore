@@ -1,0 +1,6 @@
+*.dll
+*.exe
+sdl2/*
+sdl2
+images/TopSecret/player.png
+main
