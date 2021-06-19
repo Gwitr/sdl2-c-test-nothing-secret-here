@@ -2,5 +2,5 @@
 *.exe
 sdl2/*
 sdl2
-images/TopSecret/player.png
+images/TopSecret/*
 main
